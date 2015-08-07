@@ -29,4 +29,4 @@ Déplacer une tour de A vers C
 Déplacer une tour de B vers C
 ```
  
-Ce qui semble correct et correspond en tout cas à ce que l'on voulait.
+Ce qui semble correct et correspond en tout cas à ce que l'on voulait.b
